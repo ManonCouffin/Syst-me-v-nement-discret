@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Tue Nov 30 11:59:56 2021
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+Revision Name : laby
+Top-level Entity Name : MAEtp2
+Family : MAX 10
+Total logic elements : 41
+    Total combinational functions : 41
+    Dedicated logic registers : 13
+Total registers : 13
+Total pins : 10
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
